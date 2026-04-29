@@ -7,7 +7,7 @@ Mango leaf disease classification using transfer learning with dual XAI validati
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 
 ## Demo Preview
-![MangoScan Demo](assets/demo.png)
+![MangoScan Demo](demo.png)
 
 ## Overview
 
