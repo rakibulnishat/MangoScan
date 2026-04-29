@@ -1,4 +1,3 @@
-# MangoScan
 Mango leaf disease classification using transfer learning with dual XAI validation — training notebooks and web application
 
 # MangoScan — Mango Leaf Disease Classifier
@@ -6,6 +5,9 @@ Mango leaf disease classification using transfer learning with dual XAI validati
 [![Live Demo](https://img.shields.io/badge/Demo-Hugging%20Face-yellow)](https://huggingface.co/spaces/nishaatt/mango-disease-detector)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
+
+## Demo Preview
+![MangoScan Demo](assets/demo.png)
 
 ## Overview
 
@@ -23,10 +25,9 @@ Try MangoScan directly in your browser — no installation required:
 
 ## Repository Structure
 MangoScan/
-├── notebooks/
-│   ├── balanced/        # Training on MangoLeafBD balanced (500/class)
-│   └── imbalanced/      # Training on MangoLeafBD imbalanced (206-360/class)
-└── app/                 # MangoScan Gradio web application
+├── BALANCED/        # Training on MangoLeafBD balanced (500/class)
+├── IMBALANCED/      # Training on MangoLeafBD imbalanced (206-360/class)
+└── app/             # MangoScan Gradio web application
 
 ## Models
 
