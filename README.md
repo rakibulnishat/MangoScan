@@ -46,6 +46,9 @@ Five pretrained transfer learning architectures evaluated:
 MangoLeafBD — 8 disease classes, publicly available on Kaggle:
 https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset
 
+Mango Leaf Disease Dataset - 8 disease class, publically available on Mendeley
+https://data.mendeley.com/datasets/7ghdbftp54/1
+
 ## Model Weights
 
 Trained model weights are not stored in this repository.
